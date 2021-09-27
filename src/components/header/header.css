@@ -1,0 +1,13 @@
+.header{
+    padding: 20px 0;
+}
+.header img{
+    width: 350px;
+    height: 100px;
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    cursor: pointer;
+    margin-bottom: 10px;
+}
